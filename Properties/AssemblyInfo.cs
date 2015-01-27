@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AccessControlCrack")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("crack AccessControl Beseen")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Emix")]
 [assembly: AssemblyProduct("AccessControlCrack")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
